@@ -2,8 +2,8 @@
 
 <p align="center">
   <img 
-    src="https://drive.google.com/file/d/1I1Zx5DjKJfe5GVLGNCQEZsn_48_0QGjK/view?usp=sharing"
-    width="180" style="border-radius:50%;"
+    src="https://drive.google.com/uc?export=view&id=1I1Zx5DjKJfe5GVLGNCQEZsn_48_0QGjK"
+    width="180"
     alt="Profile Picture"
   />
 </p>
