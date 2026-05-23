@@ -71,11 +71,11 @@ A platform designed to market hand-made product and promote creativity and authe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingkacrae99&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KingKacrae99&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingkacrae99&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingKacrae99&layout=compact" />
 </p>
 
 ## ⚡ Fun Fact
