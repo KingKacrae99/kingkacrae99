@@ -4,12 +4,14 @@
   <img 
     src="https://drive.google.com/uc?export=view&id=1I1Zx5DjKJfe5GVLGNCQEZsn_48_0QGjK"
     width="180"
-    width="180" style="border-radius:50%;"
+    style="border-radius:50%;"
     alt="Profile Picture"
   />
 </p>
 
+<div align="center">
 ## 🚀 About Me
+</div>
 
 I'm a Full-Stack Junior Software Developer passionate about building practical software solutions that solve real-world problems.
 
