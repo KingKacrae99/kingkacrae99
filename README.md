@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">
-## 🚀 About Me
+About Me
 </h2>
 
 I'm a Full-Stack Junior Software Developer passionate about building practical software solutions that solve real-world problems.
