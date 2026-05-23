@@ -9,9 +9,9 @@
   />
 </p>
 
-<div align="center">
+<h2 align="center">
 ## 🚀 About Me
-</div>
+</h2>
 
 I'm a Full-Stack Junior Software Developer passionate about building practical software solutions that solve real-world problems.
 
