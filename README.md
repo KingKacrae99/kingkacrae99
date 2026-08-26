@@ -38,6 +38,7 @@ I enjoy building web applications, backend systems, APIs, and intelligent softwa
 - HTML5
 - CSS3
 - SQL
+- Learning Rust
 
 ### Frameworks & Tools
 - Django
